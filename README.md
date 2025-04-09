@@ -1,5 +1,4 @@
-- 👋 Hi everyone, I’m @yellowsalmonbear i
-- 🌱 I like jazz chords played on the guitar and coding from afar. Lets be friends!
+- 👋 Hi everyone, I’m @yellowsalmonbear 
 
 
 <!---
